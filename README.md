@@ -15,7 +15,7 @@
 Blog in the form of a student's computer card with forms, tabel, fontello fonts and Subtle Patterns usage.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/screenshot.PNG)
 
 ## Technologies
 * HTML5
