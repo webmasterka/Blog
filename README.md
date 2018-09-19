@@ -27,7 +27,7 @@ You can open this project using a web browser.
 
 ## Code Examples
 
-	<div class="section">
+	   '<div class="section">
             <svg class="face" height="100" width="100">
                 <circle cx="50" cy="50" r="50" fill="#CC6666"/>
                 <circle cx="30" cy="30" r="10" fill="#FFFFFF"/>
@@ -43,8 +43,7 @@ You can open this project using a web browser.
                 <textarea name="message" placeholder="Message" required ></textarea>
                 <input type="submit" value="SEND" class="submit" />
             </form>
-            </div>
-         '
+            </div>'
 
 ## Features
 List of features ready and TODOs for future development
